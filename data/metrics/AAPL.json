@@ -1,0 +1,69 @@
+{
+  "ticker": "AAPL",
+  "name": "Apple Inc.",
+  "cik": 320193,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 416161000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "cogs": {
+      "value": 220960000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "grossProfit": {
+      "value": 195201000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "operatingIncome": {
+      "value": 133050000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "netIncome": {
+      "value": 112010000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "currentAssets": {
+      "value": 147957000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "totalAssets": {
+      "value": 359241000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "currentLiabilities": {
+      "value": 165631000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "totalLiabilities": {
+      "value": 285508000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "shareholdersEquity": {
+      "value": 73733000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "operatingCashFlow": {
+      "value": 111482000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "capex": {
+      "value": 12715000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    }
+  },
+  "fetchedAt": "2026-05-07T20:30:25.921Z"
+}

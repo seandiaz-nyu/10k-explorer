@@ -1,0 +1,61 @@
+{
+  "ticker": "WMT",
+  "name": "Walmart Inc.",
+  "cik": 104169,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 706413000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "cogs": {
+      "value": 535395000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 29825000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "netIncome": {
+      "value": 21893000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 84874000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 284668000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 107469000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 99617000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 41565000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 26642000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-07T20:30:38.142Z"
+}

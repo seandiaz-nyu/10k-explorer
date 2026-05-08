@@ -1,0 +1,65 @@
+{
+  "ticker": "TGT",
+  "name": "TARGET CORP",
+  "cik": 27419,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 104780000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "cogs": {
+      "value": 75511000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "grossProfit": {
+      "value": 20754000000,
+      "year": 2017,
+      "periodEnd": "2018-02-03"
+    },
+    "operatingIncome": {
+      "value": 5117000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "netIncome": {
+      "value": 3705000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 20005000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 59490000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 21230000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 16165000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 6562000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 3727000000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-07T20:30:40.970Z"
+}

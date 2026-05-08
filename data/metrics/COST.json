@@ -1,0 +1,65 @@
+{
+  "ticker": "COST",
+  "name": "COSTCO WHOLESALE CORP /NEW",
+  "cik": 909832,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 275235000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "cogs": {
+      "value": 239886000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 10383000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "netIncome": {
+      "value": 8099000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "currentAssets": {
+      "value": 38380000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "totalAssets": {
+      "value": 77099000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "currentLiabilities": {
+      "value": 37108000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "totalLiabilities": {
+      "value": 47935000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "shareholdersEquity": {
+      "value": 29164000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "operatingCashFlow": {
+      "value": 13335000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "capex": {
+      "value": 5498000000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    }
+  },
+  "fetchedAt": "2026-05-07T20:30:44.280Z"
+}

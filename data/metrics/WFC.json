@@ -1,0 +1,45 @@
+{
+  "ticker": "WFC",
+  "name": "WELLS FARGO & COMPANY/MN",
+  "cik": 72971,
+  "fiscalYear": 2019,
+  "metrics": {
+    "revenue": {
+      "value": 85063000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 21338000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2148631000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1965593000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 181117000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": -19001000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-07T20:31:14.243Z"
+}

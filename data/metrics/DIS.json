@@ -1,0 +1,57 @@
+{
+  "ticker": "DIS",
+  "name": "Walt Disney Co",
+  "cik": 1744489,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 94425000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 17551000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "netIncome": {
+      "value": 12404000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "currentAssets": {
+      "value": 24267000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "totalAssets": {
+      "value": 197514000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "currentLiabilities": {
+      "value": 34162000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 109869000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "operatingCashFlow": {
+      "value": 18101000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "capex": {
+      "value": 8024000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    }
+  },
+  "fetchedAt": "2026-05-07T20:31:21.381Z"
+}
