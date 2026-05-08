@@ -1,0 +1,69 @@
+{
+  "ticker": "GNRC",
+  "name": "GENERAC HOLDINGS INC.",
+  "cik": 1474735,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4209147000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 2597410000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 1611737000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 289191000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 159554000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 2462478000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 5573679000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 1215346000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 2934633000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 2632422000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 437978000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 169850000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:51:16.023Z"
+}

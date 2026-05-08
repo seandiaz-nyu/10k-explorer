@@ -1,0 +1,65 @@
+{
+  "ticker": "GLW",
+  "name": "CORNING INC /NY",
+  "cik": 24741,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15629000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 10008000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 5621000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 2279000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 1596000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 8936000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 30976000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 5628000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 18669000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 11807000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2695000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:46:27.775Z"
+}

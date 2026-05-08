@@ -1,0 +1,61 @@
+{
+  "ticker": "DE",
+  "name": "DEERE & CO",
+  "cik": 315189,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 45684000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "cogs": {
+      "value": 19933500000,
+      "year": 2017,
+      "periodEnd": "2017-10-29"
+    },
+    "grossProfit": {
+      "value": 2189000000,
+      "year": 2020,
+      "periodEnd": "2020-11-01"
+    },
+    "operatingIncome": {
+      "value": 9039000000,
+      "year": 2024,
+      "periodEnd": "2024-10-27"
+    },
+    "netIncome": {
+      "value": 5027000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 105996000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 79989000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "shareholdersEquity": {
+      "value": 25950000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "operatingCashFlow": {
+      "value": 7459000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "capex": {
+      "value": 1360000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:47:18.978Z"
+}

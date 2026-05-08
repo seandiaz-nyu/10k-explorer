@@ -1,0 +1,69 @@
+{
+  "ticker": "DELL",
+  "name": "Dell Technologies Inc.",
+  "cik": 1571996,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 113538000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "cogs": {
+      "value": 90831000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "grossProfit": {
+      "value": 22707000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "operatingIncome": {
+      "value": 8149000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "netIncome": {
+      "value": 5936000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "currentAssets": {
+      "value": 57602000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "totalAssets": {
+      "value": 101286000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "currentLiabilities": {
+      "value": 63269000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "totalLiabilities": {
+      "value": 103756000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "shareholdersEquity": {
+      "value": -2470000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "operatingCashFlow": {
+      "value": 11185000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    },
+    "capex": {
+      "value": 2633000000,
+      "year": 2026,
+      "periodEnd": "2026-01-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:47:22.706Z"
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "CSX",
+  "name": "CSX CORP",
+  "cik": 277948,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14092000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 4521000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 2889000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 2550000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 43682000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 3133000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 30522000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 13160000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 4613000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 2902000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:51.744Z"
+}

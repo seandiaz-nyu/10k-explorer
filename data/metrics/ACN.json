@@ -1,0 +1,61 @@
+{
+  "ticker": "ACN",
+  "name": "Accenture plc",
+  "cik": 1467373,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 69672977000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "cogs": {
+      "value": 47437576000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 10225664000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "netIncome": {
+      "value": 7678433000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "currentAssets": {
+      "value": 28900689000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "totalAssets": {
+      "value": 65394897000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "currentLiabilities": {
+      "value": 20352097000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 31195446000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "operatingCashFlow": {
+      "value": 11474399000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "capex": {
+      "value": 600039000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:39:06.850Z"
+}

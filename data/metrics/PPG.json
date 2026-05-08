@@ -1,0 +1,65 @@
+{
+  "ticker": "PPG",
+  "name": "PPG INDUSTRIES INC",
+  "cik": 79879,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15875000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 9316000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2675000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "netIncome": {
+      "value": 1576000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 7959000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 22098000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 4900000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 14001000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 7941000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1941000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 778000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:59:39.676Z"
+}

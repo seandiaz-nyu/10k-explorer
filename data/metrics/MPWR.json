@@ -1,0 +1,69 @@
+{
+  "ticker": "MPWR",
+  "name": "MONOLITHIC POWER SYSTEMS INC",
+  "cik": 1280452,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2790459000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 1250718000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 1539741000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 728636000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 621483000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 2183802000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 4194199000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 369365000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 662702000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 3531497000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 838202000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 172013000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:56.277Z"
+}

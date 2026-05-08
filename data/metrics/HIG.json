@@ -1,0 +1,53 @@
+{
+  "ticker": "HIG",
+  "name": "HARTFORD INSURANCE GROUP, INC.",
+  "cik": 874766,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1506000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -1728000000,
+      "year": 2009,
+      "periodEnd": "2009-12-31"
+    },
+    "netIncome": {
+      "value": 3836000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 85997000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 67018000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 18979000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 5922000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 169000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:51:50.473Z"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "GRMN",
+  "name": "GARMIN LTD",
+  "cik": 1121788,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7245519000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "cogs": {
+      "value": 2989216000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "grossProfit": {
+      "value": 4256303000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingIncome": {
+      "value": 1876076000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "netIncome": {
+      "value": 1663887000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentAssets": {
+      "value": 6248216000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalAssets": {
+      "value": 10993669000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentLiabilities": {
+      "value": 1720071000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 8972564000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingCashFlow": {
+      "value": 1633359000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "capex": {
+      "value": 270446000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:50:56.662Z"
+}

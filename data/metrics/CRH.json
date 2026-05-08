@@ -1,0 +1,69 @@
+{
+  "ticker": "CRH",
+  "name": "CRH PUBLIC LTD CO",
+  "cik": 849395,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 37447000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 23919000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 13528000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 5440000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 3753000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 15254000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 58329000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 8754000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 32851000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 24004000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 5625000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 2713000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:41.204Z"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "SNA",
+  "name": "Snap-on Inc",
+  "cik": 91440,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4709300000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "cogs": {
+      "value": 1862000000,
+      "year": 2017,
+      "periodEnd": "2017-12-30"
+    },
+    "grossProfit": {
+      "value": 1824900000,
+      "year": 2017,
+      "periodEnd": "2017-12-30"
+    },
+    "operatingIncome": {
+      "value": 1327700000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "netIncome": {
+      "value": 1016900000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "currentAssets": {
+      "value": 4402800000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "totalAssets": {
+      "value": 8412300000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "currentLiabilities": {
+      "value": 918500000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "totalLiabilities": {
+      "value": 2455500000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "shareholdersEquity": {
+      "value": 5931800000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "operatingCashFlow": {
+      "value": 1081700000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:02:21.175Z"
+}

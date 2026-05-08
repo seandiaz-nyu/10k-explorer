@@ -1,0 +1,69 @@
+{
+  "ticker": "BIIB",
+  "name": "BIOGEN INC.",
+  "cik": 875045,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9890600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 2404200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 11639400000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "operatingIncome": {
+      "value": 2840700000,
+      "year": 2021,
+      "periodEnd": "2021-12-31"
+    },
+    "netIncome": {
+      "value": 1292900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 8974100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 29439500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 3349400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 11182700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 14799400000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2204600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 153800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:34.442Z"
+}

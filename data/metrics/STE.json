@@ -1,0 +1,69 @@
+{
+  "ticker": "STE",
+  "name": "STERIS plc",
+  "cik": 1757898,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5459515000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "cogs": {
+      "value": 3056751000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": 2402764000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": 866641000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "netIncome": {
+      "value": 614641000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentAssets": {
+      "value": 2000765000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalAssets": {
+      "value": 10146811000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentLiabilities": {
+      "value": 1022173000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalLiabilities": {
+      "value": 3531054000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 6603405000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 1148087000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "capex": {
+      "value": 370091000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:02:46.228Z"
+}

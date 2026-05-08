@@ -1,0 +1,45 @@
+{
+  "ticker": "USB",
+  "name": "US BANCORP DE",
+  "cik": 36104,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 28656000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 7570000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 692345000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 626694000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 65193000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 7970000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:04:31.712Z"
+}

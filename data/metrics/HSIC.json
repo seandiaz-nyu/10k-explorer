@@ -1,0 +1,65 @@
+{
+  "ticker": "HSIC",
+  "name": "HENRY SCHEIN INC",
+  "cik": 1000228,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 13184000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "cogs": {
+      "value": 9079000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "grossProfit": {
+      "value": 4105000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingIncome": {
+      "value": 653000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "netIncome": {
+      "value": 398000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentAssets": {
+      "value": 4464000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalAssets": {
+      "value": 11215000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentLiabilities": {
+      "value": 3228000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalLiabilities": {
+      "value": 6421000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "shareholdersEquity": {
+      "value": 3245000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingCashFlow": {
+      "value": 712000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:52:04.264Z"
+}

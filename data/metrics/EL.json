@@ -1,0 +1,69 @@
+{
+  "ticker": "EL",
+  "name": "ESTEE LAUDER COMPANIES INC",
+  "cik": 1001250,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 14326000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 3729000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 10597000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingIncome": {
+      "value": -785000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "netIncome": {
+      "value": 684000000,
+      "year": 2020,
+      "periodEnd": "2020-06-30"
+    },
+    "currentAssets": {
+      "value": 7069000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 19892000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 5435000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 8745000000,
+      "year": 2019,
+      "periodEnd": "2019-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 5590000000,
+      "year": 2022,
+      "periodEnd": "2022-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 1272000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": {
+      "value": 602000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:49:24.579Z"
+}

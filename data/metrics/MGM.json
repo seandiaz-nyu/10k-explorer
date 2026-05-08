@@ -1,0 +1,61 @@
+{
+  "ticker": "MGM",
+  "name": "MGM Resorts International",
+  "cik": 789570,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17537683000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1001780000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 205862000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 4332424000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 41373786000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 3512107000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 38097468000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 2429917000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2529378000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 1068927000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:33.016Z"
+}

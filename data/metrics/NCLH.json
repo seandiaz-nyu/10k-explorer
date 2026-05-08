@@ -1,0 +1,65 @@
+{
+  "ticker": "NCLH",
+  "name": "Norwegian Cruise Line Holdings Ltd.",
+  "cik": 1513761,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": {
+      "value": 5396175000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "cogs": {
+      "value": 5639163000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1560868000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 423246000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 1138541000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 22541401000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 5452577000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 20331513000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 2209888000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2089746000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 3259606000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:57:59.474Z"
+}

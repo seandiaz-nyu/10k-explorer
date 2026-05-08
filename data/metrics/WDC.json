@@ -1,0 +1,69 @@
+{
+  "ticker": "WDC",
+  "name": "WESTERN DIGITAL CORP",
+  "cik": 106040,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9520000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "cogs": {
+      "value": 5828000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "grossProfit": {
+      "value": 3692000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "operatingIncome": {
+      "value": 2334000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "netIncome": {
+      "value": 1889000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "currentAssets": {
+      "value": 5856000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "totalAssets": {
+      "value": 14002000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "currentLiabilities": {
+      "value": 5418000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "totalLiabilities": {
+      "value": 8462000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "shareholdersEquity": {
+      "value": 5311000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "operatingCashFlow": {
+      "value": 1691000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "capex": {
+      "value": 412000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:06:33.198Z"
+}

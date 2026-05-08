@@ -1,0 +1,57 @@
+{
+  "ticker": "FCX",
+  "name": "FREEPORT-MCMORAN INC",
+  "cik": 831259,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 25186000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 18618000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 6518000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": null,
+    "currentAssets": {
+      "value": 13790000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 58167000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 6019000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 27401000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 18899000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 5610000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:50:53.472Z"
+}

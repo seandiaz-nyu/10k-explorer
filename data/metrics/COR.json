@@ -1,0 +1,65 @@
+{
+  "ticker": "COR",
+  "name": "Cencora, Inc.",
+  "cik": 1140859,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 321332819000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 309854280000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": 11478539000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingIncome": {
+      "value": 2628601000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "netIncome": {
+      "value": 1554169000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 52239073000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 76590112000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 57820539000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1508019000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 3875120000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "capex": {
+      "value": 667981000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:44:26.439Z"
+}

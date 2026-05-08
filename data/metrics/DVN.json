@@ -1,0 +1,61 @@
+{
+  "ticker": "DVN",
+  "name": "DEVON ENERGY CORP/DE",
+  "cik": 1090012,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 16786000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 2812000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": -2895000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31"
+    },
+    "netIncome": {
+      "value": 2642000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 4006000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 31599000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 4086000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 15528000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 6711000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 31000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:47:25.817Z"
+}

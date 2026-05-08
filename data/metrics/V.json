@@ -1,0 +1,57 @@
+{
+  "ticker": "V",
+  "name": "VISA INC.",
+  "cik": 1403161,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 40000000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 23994000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "netIncome": {
+      "value": 20058000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 37766000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 99627000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 35048000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": {
+      "value": 61718000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": 26437000000,
+      "year": 2011,
+      "periodEnd": "2011-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 23059000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:05:54.490Z"
+}

@@ -1,0 +1,57 @@
+{
+  "ticker": "XOM",
+  "name": "EXXON MOBIL CORP",
+  "cik": 34088,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 276692000000,
+      "year": 2021,
+      "periodEnd": "2021-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 28844000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 83382000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 448980000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 72330000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 182354000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 259386000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 51970000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 28358000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:49:55.868Z"
+}

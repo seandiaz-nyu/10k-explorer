@@ -1,0 +1,45 @@
+{
+  "ticker": "MS",
+  "name": "MORGAN STANLEY",
+  "cik": 895421,
+  "fiscalYear": 2014,
+  "metrics": {
+    "revenue": {
+      "value": 34275000000,
+      "year": 2014,
+      "periodEnd": "2014-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 16861000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 1420270000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 1307618000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 111632000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": -17889000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:57:06.509Z"
+}

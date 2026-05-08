@@ -1,0 +1,61 @@
+{
+  "ticker": "AVY",
+  "name": "Avery Dennison Corp",
+  "cik": 8818,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8855500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 6309200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 2546300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 688000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 2990300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 8801700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 2653600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2242100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 881400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 169000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:07.124Z"
+}

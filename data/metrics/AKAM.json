@@ -1,0 +1,65 @@
+{
+  "ticker": "AKAM",
+  "name": "AKAMAI TECHNOLOGIES INC",
+  "cik": 1086222,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": {
+      "value": 2502996000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "cogs": {
+      "value": 1727513000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 566944000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 452031000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 2286680000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 11479643000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 967518000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 6502272000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 4977371000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1518765000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 507786000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:39:38.936Z"
+}

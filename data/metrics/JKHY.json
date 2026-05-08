@@ -1,0 +1,69 @@
+{
+  "ticker": "JKHY",
+  "name": "JACK HENRY & ASSOCIATES INC",
+  "cik": 779152,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2375288000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 1360747000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 612083000,
+      "year": 2017,
+      "periodEnd": "2017-06-30"
+    },
+    "operatingIncome": {
+      "value": 568715000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "netIncome": {
+      "value": 455748000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 681464000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 3043970000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 535784000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 913138000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 2130832000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 641504000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": {
+      "value": 53358000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:54:02.851Z"
+}

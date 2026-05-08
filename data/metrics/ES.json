@@ -1,0 +1,57 @@
+{
+  "ticker": "ES",
+  "name": "EVERSOURCE ENERGY",
+  "cik": 72741,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 13547244000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2988589000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": -434700000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "currentAssets": {
+      "value": 5077186000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 63786711000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 7808512000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 16197271000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 4113572000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 4158669000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:49:35.151Z"
+}

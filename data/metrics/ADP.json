@@ -1,0 +1,61 @@
+{
+  "ticker": "ADP",
+  "name": "AUTOMATIC DATA PROCESSING INC",
+  "cik": 8670,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 20560900000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 11097300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 1309600000,
+      "year": 2020,
+      "periodEnd": "2020-06-30"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 4079700000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 43252200000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 53369300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 41278300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 47181300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 6188000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 4939700000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:41:53.998Z"
+}

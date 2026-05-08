@@ -1,0 +1,57 @@
+{
+  "ticker": "GL",
+  "name": "GLOBE LIFE INC.",
+  "cik": 320335,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5994318000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 1259942000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "operatingIncome": {
+      "value": 1265012000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "netIncome": {
+      "value": 1161238000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 30813692000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 24839113000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 5974579000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1396391000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 142484000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:51:34.883Z"
+}

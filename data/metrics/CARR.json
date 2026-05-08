@@ -1,0 +1,61 @@
+{
+  "ticker": "CARR",
+  "name": "CARRIER GLOBAL Corp",
+  "cik": 1783180,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21747000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 16505000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2172000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 1484000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 8533000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 37190000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 7114000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 23062000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 14128000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2513000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:43:55.816Z"
+}

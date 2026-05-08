@@ -1,0 +1,69 @@
+{
+  "ticker": "RTX",
+  "name": "RTX Corp",
+  "cik": 101829,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 88603000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 31027000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "grossProfit": {
+      "value": 2153000000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "operatingIncome": {
+      "value": 9300000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 6732000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 60332000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 171079000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 58784000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 103941000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 65245000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 10567000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 2627000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:00:46.206Z"
+}

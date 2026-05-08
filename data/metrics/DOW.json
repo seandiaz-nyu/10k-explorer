@@ -1,0 +1,53 @@
+{
+  "ticker": "DOW",
+  "name": "DOW INC.",
+  "cik": 1751788,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 39968000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 37435000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 5196000000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "operatingIncome": null,
+    "netIncome": null,
+    "currentAssets": {
+      "value": 18062000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 58538000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 9183000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 16008000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1032000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:47:59.016Z"
+}

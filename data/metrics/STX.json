@@ -1,0 +1,65 @@
+{
+  "ticker": "STX",
+  "name": "Seagate Technology Holdings plc",
+  "cik": 1137789,
+  "fiscalYear": 2027,
+  "metrics": {
+    "revenue": {
+      "value": 9097000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "cogs": {
+      "value": 5897000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 1890000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "netIncome": {
+      "value": 1469000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "currentAssets": {
+      "value": 3653000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "totalAssets": {
+      "value": 8023000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "currentLiabilities": {
+      "value": 2648000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "totalLiabilities": {
+      "value": 8476000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "shareholdersEquity": {
+      "value": -453000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "operatingCashFlow": {
+      "value": 1083000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    },
+    "capex": {
+      "value": 265000000,
+      "year": 2027,
+      "periodEnd": "2025-06-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:01:52.725Z"
+}

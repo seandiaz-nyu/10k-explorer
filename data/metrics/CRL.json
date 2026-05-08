@@ -1,0 +1,65 @@
+{
+  "ticker": "CRL",
+  "name": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+  "cik": 1100682,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4015382000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "cogs": {
+      "value": 289669000,
+      "year": 2017,
+      "periodEnd": "2017-12-30"
+    },
+    "grossProfit": {
+      "value": 299968000,
+      "year": 2020,
+      "periodEnd": "2020-12-26"
+    },
+    "operatingIncome": {
+      "value": 25162000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "netIncome": {
+      "value": -144338000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentAssets": {
+      "value": 1447049000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalAssets": {
+      "value": 7135422000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentLiabilities": {
+      "value": 1120315000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalLiabilities": {
+      "value": 3924228000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "shareholdersEquity": {
+      "value": 3164630000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingCashFlow": {
+      "value": 737646000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:44:41.224Z"
+}

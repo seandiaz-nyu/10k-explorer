@@ -1,0 +1,61 @@
+{
+  "ticker": "XEL",
+  "name": "XCEL ENERGY INC",
+  "cik": 72903,
+  "fiscalYear": 2018,
+  "metrics": {
+    "revenue": {
+      "value": 11537000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31"
+    },
+    "cogs": {
+      "value": 3854000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2583000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 2018000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 5014000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 81371000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 7089000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 23609000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 4083000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2012,
+      "periodEnd": "2012-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:06:59.157Z"
+}

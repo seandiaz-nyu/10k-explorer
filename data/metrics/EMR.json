@@ -1,0 +1,61 @@
+{
+  "ticker": "EMR",
+  "name": "EMERSON ELECTRIC CO",
+  "cik": 32604,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18016000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 8497000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": 9519000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 2293000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 8583000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 41964000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 9797000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 20282000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 3098000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "capex": {
+      "value": 431000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:48:48.613Z"
+}

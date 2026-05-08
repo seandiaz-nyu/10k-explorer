@@ -1,0 +1,69 @@
+{
+  "ticker": "SMCI",
+  "name": "Super Micro Computer, Inc.",
+  "cik": 1375365,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21972042000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 19542120000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 2429922000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingIncome": {
+      "value": 1252994000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "netIncome": {
+      "value": 1048854000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 12301654000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 14018429000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 2344792000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 7716558000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 6301693000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 1659524000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": {
+      "value": 127214000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:02:54.492Z"
+}

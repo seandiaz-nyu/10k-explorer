@@ -1,0 +1,69 @@
+{
+  "ticker": "KLAC",
+  "name": "KLA CORP",
+  "cik": 319201,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12156162000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 4751867000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 1153230000,
+      "year": 2021,
+      "periodEnd": "2021-06-30"
+    },
+    "operatingIncome": {
+      "value": 772070000,
+      "year": 2014,
+      "periodEnd": "2014-06-30"
+    },
+    "netIncome": {
+      "value": 4061643000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 10698789000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 16067926000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 4085795000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 11375473000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 4692453000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 4081903000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": {
+      "value": 335259000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:54:41.770Z"
+}

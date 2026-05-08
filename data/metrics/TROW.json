@@ -1,0 +1,57 @@
+{
+  "ticker": "TROW",
+  "name": "PRICE T ROWE GROUP INC",
+  "cik": 1113169,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7314800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": {
+      "value": 2747100000,
+      "year": 2011,
+      "periodEnd": "2011-12-31"
+    },
+    "operatingIncome": {
+      "value": 2188800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 2087100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 14341800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2288600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 10860100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1753400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 274200000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:03:14.415Z"
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "PEG",
+  "name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+  "cik": 788784,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12168000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 3056000000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2980000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 2111000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 4596000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 57576000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 5740000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 13130000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 3298000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 3272000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:00:08.872Z"
+}

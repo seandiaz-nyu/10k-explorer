@@ -1,0 +1,69 @@
+{
+  "ticker": "GE",
+  "name": "GENERAL ELECTRIC CO",
+  "cik": 40545,
+  "fiscalYear": 2024,
+  "metrics": {
+    "revenue": {
+      "value": 9879000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31"
+    },
+    "cogs": {
+      "value": 6761000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31"
+    },
+    "grossProfit": {
+      "value": 7027000000,
+      "year": 2016,
+      "periodEnd": "2016-12-31"
+    },
+    "operatingIncome": {
+      "value": 22887000000,
+      "year": 2012,
+      "periodEnd": "2012-12-31"
+    },
+    "netIncome": {
+      "value": 8704000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 40596000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 130169000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 38980000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 111271000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 18677000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 8537000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 1371000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:51:03.346Z"
+}

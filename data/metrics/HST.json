@@ -1,0 +1,53 @@
+{
+  "ticker": "HST",
+  "name": "HOST HOTELS & RESORTS, INC.",
+  "cik": 1070750,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6114000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 855000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 765000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 13049000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 6317000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 6558000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1510000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2009,
+      "periodEnd": "2009-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:52:28.771Z"
+}

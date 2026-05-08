@@ -1,0 +1,49 @@
+{
+  "ticker": "VTR",
+  "name": "Ventas, Inc.",
+  "cik": 740260,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5833980000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 266495000,
+      "year": 2009,
+      "periodEnd": "2009-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 27591945000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 14630983000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 12527253000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1646726000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 156724000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:05:21.842Z"
+}

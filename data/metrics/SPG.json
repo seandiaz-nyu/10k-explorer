@@ -1,0 +1,45 @@
+{
+  "ticker": "SPG",
+  "name": "SIMON PROPERTY GROUP INC.",
+  "cik": 1063761,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6364505000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 3175396000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": null,
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 40606466000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 33901073000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 5208268000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 4136551000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:02:06.688Z"
+}

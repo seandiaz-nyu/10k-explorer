@@ -1,0 +1,65 @@
+{
+  "ticker": "ROK",
+  "name": "ROCKWELL AUTOMATION, INC",
+  "cik": 1024478,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8342000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 4326000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": 4016000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingIncome": {
+      "value": 1703000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "netIncome": {
+      "value": 869000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 3911000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 11219000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 3445000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 3654000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 1544000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "capex": {
+      "value": 160500000,
+      "year": 2023,
+      "periodEnd": "2023-09-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:01:19.146Z"
+}

@@ -1,0 +1,69 @@
+{
+  "ticker": "TEL",
+  "name": "TE Connectivity plc",
+  "cik": 1385157,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 17262000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "cogs": {
+      "value": 11183000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "grossProfit": {
+      "value": 6079000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "operatingIncome": {
+      "value": 3211000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "netIncome": {
+      "value": 1842000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "currentAssets": {
+      "value": 7966000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "totalAssets": {
+      "value": 25081000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "currentLiabilities": {
+      "value": 5120000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "totalLiabilities": {
+      "value": 12351000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "shareholdersEquity": {
+      "value": 9585000000,
+      "year": 2015,
+      "periodEnd": "2015-09-25"
+    },
+    "operatingCashFlow": {
+      "value": 4139000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "capex": {
+      "value": 936000000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:03:28.496Z"
+}

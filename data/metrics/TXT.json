@@ -1,0 +1,49 @@
+{
+  "ticker": "TXT",
+  "name": "TEXTRON INC",
+  "cik": 217346,
+  "fiscalYear": 2019,
+  "metrics": {
+    "revenue": {
+      "value": 13630000000,
+      "year": 2019,
+      "periodEnd": "2020-01-04"
+    },
+    "cogs": {
+      "value": 10094000000,
+      "year": 2020,
+      "periodEnd": "2021-01-02"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 921000000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 18129000000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 10254000000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "shareholdersEquity": {
+      "value": 7875000000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "operatingCashFlow": {
+      "value": 1312000000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:03:46.464Z"
+}

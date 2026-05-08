@@ -1,0 +1,69 @@
+{
+  "ticker": "NVDA",
+  "name": "NVIDIA CORP",
+  "cik": 1045810,
+  "fiscalYear": 2022,
+  "metrics": {
+    "revenue": {
+      "value": 26914000000,
+      "year": 2022,
+      "periodEnd": "2022-01-30"
+    },
+    "cogs": {
+      "value": 6279000000,
+      "year": 2021,
+      "periodEnd": "2021-01-31"
+    },
+    "grossProfit": {
+      "value": 153463000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "operatingIncome": {
+      "value": 130387000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "netIncome": {
+      "value": 120067000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "currentAssets": {
+      "value": 125605000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "totalAssets": {
+      "value": 206803000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "currentLiabilities": {
+      "value": 32163000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "totalLiabilities": {
+      "value": 49510000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "shareholdersEquity": {
+      "value": 157293000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "operatingCashFlow": {
+      "value": 102718000000,
+      "year": 2026,
+      "periodEnd": "2026-01-25"
+    },
+    "capex": {
+      "value": 138735000,
+      "year": 2011,
+      "periodEnd": "2012-01-29"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:58:08.958Z"
+}

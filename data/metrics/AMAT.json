@@ -1,0 +1,69 @@
+{
+  "ticker": "AMAT",
+  "name": "APPLIED MATERIALS INC /DE",
+  "cik": 6951,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 28368000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "cogs": {
+      "value": 14560000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "grossProfit": {
+      "value": 13808000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "operatingIncome": {
+      "value": 8289000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "netIncome": {
+      "value": 6998000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "currentAssets": {
+      "value": 20881000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "totalAssets": {
+      "value": 36299000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "currentLiabilities": {
+      "value": 7999000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "totalLiabilities": {
+      "value": 15884000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "shareholdersEquity": {
+      "value": 20415000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "operatingCashFlow": {
+      "value": 7958000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "capex": {
+      "value": 2260000000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:41:12.258Z"
+}

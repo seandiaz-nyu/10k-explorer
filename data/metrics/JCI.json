@@ -1,0 +1,65 @@
+{
+  "ticker": "JCI",
+  "name": "Johnson Controls International plc",
+  "cik": 833444,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23596000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 15004000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": 8592000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingIncome": {
+      "value": 884000000,
+      "year": 2015,
+      "periodEnd": "2015-09-25"
+    },
+    "netIncome": {
+      "value": 3291000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 10162000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 37939000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 10941000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": {
+      "value": 8245000000,
+      "year": 2015,
+      "periodEnd": "2015-09-25"
+    },
+    "shareholdersEquity": {
+      "value": 12927000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 2551000000,
+      "year": 2021,
+      "periodEnd": "2021-09-30"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:54:10.675Z"
+}

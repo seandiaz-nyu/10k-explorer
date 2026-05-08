@@ -1,0 +1,57 @@
+{
+  "ticker": "OXY",
+  "name": "OCCIDENTAL PETROLEUM CORP /DE/",
+  "cik": 797468,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21569000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 3121000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 4696000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "currentAssets": {
+      "value": 8827000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 84186000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 9428000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 36034000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 10532000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 6427000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:58:21.811Z"
+}

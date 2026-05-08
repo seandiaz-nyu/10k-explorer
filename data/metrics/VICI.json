@@ -1,0 +1,57 @@
+{
+  "ticker": "VICI",
+  "name": "VICI PROPERTIES INC.",
+  "cik": 1705696,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4006116000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 26730000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 321018000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "netIncome": {
+      "value": 2775493000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 46724168000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 18501581000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 27797640000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2509991000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 2724000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:05:51.231Z"
+}

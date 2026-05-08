@@ -1,0 +1,65 @@
+{
+  "ticker": "VLO",
+  "name": "VALERO ENERGY CORP/TX",
+  "cik": 1035002,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 122687000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 117255000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": -230000000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "operatingIncome": {
+      "value": 3181000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 2348000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 23210000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 57988000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 14109000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 23725000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 5826000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 1353000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:05:12.991Z"
+}

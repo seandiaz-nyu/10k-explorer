@@ -1,0 +1,65 @@
+{
+  "ticker": "PAYX",
+  "name": "PAYCHEX INC",
+  "cik": 723531,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5410000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "cogs": {
+      "value": 1540400000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2207700000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "netIncome": {
+      "value": 674900000,
+      "year": 2015,
+      "periodEnd": "2015-05-31"
+    },
+    "currentAssets": {
+      "value": 8916500000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalAssets": {
+      "value": 16564100000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentLiabilities": {
+      "value": 6956300000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalLiabilities": {
+      "value": 12436100000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "shareholdersEquity": {
+      "value": 4128000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "operatingCashFlow": {
+      "value": 1900900000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "capex": {
+      "value": 191800000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:59:09.474Z"
+}

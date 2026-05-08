@@ -1,0 +1,65 @@
+{
+  "ticker": "ORCL",
+  "name": "ORACLE CORP",
+  "cik": 1341439,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 57399000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "cogs": {
+      "value": 2057000000,
+      "year": 2011,
+      "periodEnd": "2011-05-31"
+    },
+    "grossProfit": {
+      "value": 24287000000,
+      "year": 2018,
+      "periodEnd": "2018-05-31"
+    },
+    "operatingIncome": {
+      "value": 17678000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "netIncome": {
+      "value": 12443000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentAssets": {
+      "value": 24579000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalAssets": {
+      "value": 168361000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentLiabilities": {
+      "value": 32643000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 20451000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "operatingCashFlow": {
+      "value": 20821000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "capex": {
+      "value": 21215000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:58:39.535Z"
+}

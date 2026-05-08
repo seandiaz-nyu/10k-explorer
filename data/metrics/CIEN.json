@@ -1,0 +1,69 @@
+{
+  "ticker": "CIEN",
+  "name": "CIENA CORP",
+  "cik": 936395,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4769507000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "cogs": {
+      "value": 2764590000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "grossProfit": {
+      "value": 2004917000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "operatingIncome": {
+      "value": 197531000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "netIncome": {
+      "value": 123338000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "currentAssets": {
+      "value": 3565507000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "totalAssets": {
+      "value": 5864667000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "currentLiabilities": {
+      "value": 1308394000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "totalLiabilities": {
+      "value": 3135344000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "shareholdersEquity": {
+      "value": 2729323000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "operatingCashFlow": {
+      "value": 806093000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "capex": {
+      "value": 140801000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:45:07.299Z"
+}

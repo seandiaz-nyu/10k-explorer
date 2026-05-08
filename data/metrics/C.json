@@ -1,0 +1,53 @@
+{
+  "ticker": "C",
+  "name": "CITIGROUP INC",
+  "cik": 831001,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 85225000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 17495000000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 14306000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 2657202000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 2443380000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 212291000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": -67632000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 6520000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:45:25.578Z"
+}

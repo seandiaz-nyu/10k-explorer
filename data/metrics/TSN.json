@@ -1,0 +1,65 @@
+{
+  "ticker": "TSN",
+  "name": "TYSON FOODS, INC.",
+  "cik": 100493,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 54441000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "cogs": {
+      "value": 50879000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "grossProfit": {
+      "value": 3562000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "operatingIncome": {
+      "value": 1098000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "netIncome": {
+      "value": 474000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "currentAssets": {
+      "value": 9916000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "totalAssets": {
+      "value": 36658000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "currentLiabilities": {
+      "value": 6389000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 18085000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "operatingCashFlow": {
+      "value": 2155000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    },
+    "capex": {
+      "value": 978000000,
+      "year": 2025,
+      "periodEnd": "2025-09-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:04:27.978Z"
+}

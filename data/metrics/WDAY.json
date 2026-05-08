@@ -1,0 +1,65 @@
+{
+  "ticker": "WDAY",
+  "name": "Workday, Inc.",
+  "cik": 1327811,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 9552000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "cogs": {
+      "value": 116535000,
+      "year": 2012,
+      "periodEnd": "2013-01-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 721000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "netIncome": {
+      "value": 693000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 8429000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 18074000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 6378000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": {
+      "value": 10269000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "shareholdersEquity": {
+      "value": 7805000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 2939000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 162000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:06:51.851Z"
+}

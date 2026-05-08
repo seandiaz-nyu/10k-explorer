@@ -1,0 +1,69 @@
+{
+  "ticker": "FICO",
+  "name": "FAIR ISAAC CORP",
+  "cik": 814547,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1990869000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 180932000,
+      "year": 2010,
+      "periodEnd": "2010-09-30"
+    },
+    "grossProfit": {
+      "value": 280680000,
+      "year": 2019,
+      "periodEnd": "2020-09-30"
+    },
+    "operatingIncome": {
+      "value": 924850000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "netIncome": {
+      "value": 651946000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 705165000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 1868133000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 849215000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": {
+      "value": 3613917000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": -1745784000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 778807000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "capex": {
+      "value": 8922000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:50:05.296Z"
+}

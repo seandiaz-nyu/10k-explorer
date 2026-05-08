@@ -1,0 +1,69 @@
+{
+  "ticker": "SJM",
+  "name": "J M SMUCKER Co",
+  "cik": 91419,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 8726100000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "cogs": {
+      "value": 5341400000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "grossProfit": {
+      "value": 3384700000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "operatingIncome": {
+      "value": -673900000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "netIncome": {
+      "value": -1230800000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "currentAssets": {
+      "value": 2146600000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "totalAssets": {
+      "value": 17563300000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "currentLiabilities": {
+      "value": 2652000000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "totalLiabilities": {
+      "value": 11480700000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "shareholdersEquity": {
+      "value": 6082600000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "operatingCashFlow": {
+      "value": 1210400000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "capex": {
+      "value": 393800000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:02:14.988Z"
+}

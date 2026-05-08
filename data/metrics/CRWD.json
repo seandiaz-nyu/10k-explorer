@@ -1,0 +1,69 @@
+{
+  "ticker": "CRWD",
+  "name": "CrowdStrike Holdings, Inc.",
+  "cik": 1535527,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 4812005000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "cogs": {
+      "value": 1218929000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "grossProfit": {
+      "value": 3593076000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingIncome": {
+      "value": -293292000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "netIncome": {
+      "value": -162502000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 7419119000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 11086684000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 4184192000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": {
+      "value": 6614079000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "shareholdersEquity": {
+      "value": 4428390000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 1612349000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 302108000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:44.862Z"
+}

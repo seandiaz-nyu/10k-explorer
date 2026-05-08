@@ -1,0 +1,65 @@
+{
+  "ticker": "TMUS",
+  "name": "T-Mobile US, Inc.",
+  "cik": 1283699,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 88309000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 2930051000,
+      "year": 2012,
+      "periodEnd": "2012-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 18279000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 10992000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 24461000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 219237000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 24500000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 6830508000,
+      "year": 2012,
+      "periodEnd": "2012-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 59203000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 27950000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 9955000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:03:11.043Z"
+}

@@ -1,0 +1,69 @@
+{
+  "ticker": "SNDK",
+  "name": "Sandisk Corp",
+  "cik": 2023554,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7355000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "cogs": {
+      "value": 5143000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "grossProfit": {
+      "value": 2212000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "operatingIncome": {
+      "value": -1377000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "netIncome": {
+      "value": -1641000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "currentAssets": {
+      "value": 5086000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "totalAssets": {
+      "value": 12985000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "currentLiabilities": {
+      "value": 1427000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "totalLiabilities": {
+      "value": 3769000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "shareholdersEquity": {
+      "value": 9216000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "operatingCashFlow": {
+      "value": 84000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    },
+    "capex": {
+      "value": 204000000,
+      "year": 2025,
+      "periodEnd": "2025-06-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:01:43.406Z"
+}

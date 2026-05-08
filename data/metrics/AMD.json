@@ -1,0 +1,65 @@
+{
+  "ticker": "AMD",
+  "name": "ADVANCED MICRO DEVICES INC",
+  "cik": 2488,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 34639000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "cogs": {
+      "value": 17487000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "grossProfit": {
+      "value": 17152000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingIncome": {
+      "value": 3694000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "netIncome": {
+      "value": 4335000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentAssets": {
+      "value": 26947000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalAssets": {
+      "value": 76926000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentLiabilities": {
+      "value": 9455000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 62999000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingCashFlow": {
+      "value": 7709000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "capex": {
+      "value": 974000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:39:14.499Z"
+}

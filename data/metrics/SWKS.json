@@ -1,0 +1,69 @@
+{
+  "ticker": "SWKS",
+  "name": "SKYWORKS SOLUTIONS, INC.",
+  "cik": 4127,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4086900000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "cogs": {
+      "value": 2404800000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "grossProfit": {
+      "value": 1682100000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "operatingIncome": {
+      "value": 500000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "netIncome": {
+      "value": 477100000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "currentAssets": {
+      "value": 3077000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "totalAssets": {
+      "value": 7917000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "currentLiabilities": {
+      "value": 1323200000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "totalLiabilities": {
+      "value": 2159900000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "shareholdersEquity": {
+      "value": 5757100000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "operatingCashFlow": {
+      "value": 1300800000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    },
+    "capex": {
+      "value": 195000000,
+      "year": 2025,
+      "periodEnd": "2025-10-03"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:02:10.994Z"
+}

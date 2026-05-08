@@ -1,0 +1,65 @@
+{
+  "ticker": "SHW",
+  "name": "SHERWIN WILLIAMS CO",
+  "cik": 89800,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23574300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 12058800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 11515500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 4161700000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "netIncome": {
+      "value": 2568500000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 6007400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 25901700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 6920300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 4598300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 3451600000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 125162000,
+      "year": 2010,
+      "periodEnd": "2010-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:02:03.030Z"
+}

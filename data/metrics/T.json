@@ -1,0 +1,65 @@
+{
+  "ticker": "T",
+  "name": "AT&T INC.",
+  "cik": 732717,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 125648000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 60611000000,
+      "year": 2014,
+      "periodEnd": "2014-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 24162000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 21953000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 48732000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 420198000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 53780000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 279032000000,
+      "year": 2015,
+      "periodEnd": "2015-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 126491000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 40284000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 20647000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:41:43.686Z"
+}

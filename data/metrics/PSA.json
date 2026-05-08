@@ -1,0 +1,57 @@
+{
+  "ticker": "PSA",
+  "name": "Public Storage",
+  "cik": 1393311,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4824113000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 172584000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    },
+    "grossProfit": {
+      "value": 2014558000,
+      "year": 2018,
+      "periodEnd": "2018-12-31"
+    },
+    "operatingIncome": {
+      "value": 1423142000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "netIncome": {
+      "value": 1784348000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 20208604000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 10866770000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 9248128000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 3186449000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:00:17.895Z"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "SWK",
+  "name": "STANLEY BLACK & DECKER, INC.",
+  "cik": 93556,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15130400000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "cogs": {
+      "value": 10542100000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "grossProfit": {
+      "value": 4284100000,
+      "year": 2022,
+      "periodEnd": "2022-12-31"
+    },
+    "operatingIncome": {
+      "value": 2176000000,
+      "year": 2020,
+      "periodEnd": "2021-01-02"
+    },
+    "netIncome": {
+      "value": 401900000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "currentAssets": {
+      "value": 5979000000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "totalAssets": {
+      "value": 21243700000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "currentLiabilities": {
+      "value": 5245700000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 9054600000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "operatingCashFlow": {
+      "value": 971200000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    },
+    "capex": {
+      "value": 283300000,
+      "year": 2025,
+      "periodEnd": "2026-01-03"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:02:32.519Z"
+}

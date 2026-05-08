@@ -1,0 +1,69 @@
+{
+  "ticker": "AVGO",
+  "name": "Broadcom Inc.",
+  "cik": 1730168,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 63887000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "cogs": {
+      "value": 10115000000,
+      "year": 2018,
+      "periodEnd": "2018-11-04"
+    },
+    "grossProfit": {
+      "value": 43294000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "operatingIncome": {
+      "value": 25484000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "netIncome": {
+      "value": 5895000000,
+      "year": 2024,
+      "periodEnd": "2024-11-03"
+    },
+    "currentAssets": {
+      "value": 31573000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "totalAssets": {
+      "value": 171092000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "currentLiabilities": {
+      "value": 18514000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "totalLiabilities": {
+      "value": 89800000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "shareholdersEquity": {
+      "value": 24941000000,
+      "year": 2019,
+      "periodEnd": "2019-11-03"
+    },
+    "operatingCashFlow": {
+      "value": 27537000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    },
+    "capex": {
+      "value": 623000000,
+      "year": 2025,
+      "periodEnd": "2025-11-02"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:43:06.903Z"
+}

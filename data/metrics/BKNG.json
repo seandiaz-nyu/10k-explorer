@@ -1,0 +1,69 @@
+{
+  "ticker": "BKNG",
+  "name": "Booking Holdings Inc.",
+  "cik": 1075531,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 26917000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 250537000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "grossProfit": {
+      "value": 12430545000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "operatingIncome": {
+      "value": 8825000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 288663000,
+      "year": 2012,
+      "periodEnd": "2012-12-31"
+    },
+    "currentAssets": {
+      "value": 22264000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 29264000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 16698000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 34842000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": -5578000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 9409000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 322000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:56.262Z"
+}

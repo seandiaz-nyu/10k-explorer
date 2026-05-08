@@ -1,0 +1,65 @@
+{
+  "ticker": "LRCX",
+  "name": "LAM RESEARCH CORP",
+  "cik": 707549,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18435591000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "cogs": {
+      "value": 9456532000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "grossProfit": {
+      "value": 8979059000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "operatingIncome": {
+      "value": 5900968000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "netIncome": {
+      "value": 5358217000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "currentAssets": {
+      "value": 14516995000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "totalAssets": {
+      "value": 21345260000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "currentLiabilities": {
+      "value": 6568425000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "totalLiabilities": {
+      "value": 11483641000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "shareholdersEquity": {
+      "value": 9861619000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "operatingCashFlow": {
+      "value": 6173264000,
+      "year": 2025,
+      "periodEnd": "2025-06-29"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:54:59.013Z"
+}

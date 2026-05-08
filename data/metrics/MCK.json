@@ -1,0 +1,65 @@
+{
+  "ticker": "MCK",
+  "name": "MCKESSON CORP",
+  "cik": 927653,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 403430000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "cogs": {
+      "value": 388880000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "grossProfit": {
+      "value": 14550000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "operatingIncome": {
+      "value": 6212000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "netIncome": {
+      "value": 4762000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "currentAssets": {
+      "value": 57210000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "totalAssets": {
+      "value": 82323000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "currentLiabilities": {
+      "value": 67017000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -2172000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 6155000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    },
+    "capex": {
+      "value": 436000000,
+      "year": 2026,
+      "periodEnd": "2026-03-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:19.121Z"
+}

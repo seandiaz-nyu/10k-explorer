@@ -1,0 +1,65 @@
+{
+  "ticker": "DECK",
+  "name": "DECKERS OUTDOOR CORP",
+  "cik": 910521,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4985612000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "cogs": {
+      "value": 2099949000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": 2885663000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": 1179092000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "netIncome": {
+      "value": 966091000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentAssets": {
+      "value": 2860475000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalAssets": {
+      "value": 3570252000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentLiabilities": {
+      "value": 769941000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2513013000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 1044523000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "capex": {
+      "value": 86171000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:47:14.999Z"
+}

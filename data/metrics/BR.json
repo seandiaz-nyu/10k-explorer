@@ -1,0 +1,69 @@
+{
+  "ticker": "BR",
+  "name": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+  "cik": 1383312,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6889100000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 4752300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 1423000000,
+      "year": 2021,
+      "periodEnd": "2021-06-30"
+    },
+    "operatingIncome": {
+      "value": 1188600000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "netIncome": {
+      "value": 839500000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 1817100000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 8545000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 1861200000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 5889900000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 2655100000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 1171300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": {
+      "value": 43800000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:43:10.678Z"
+}

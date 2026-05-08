@@ -1,0 +1,65 @@
+{
+  "ticker": "TECH",
+  "name": "BIO-TECHNE Corp",
+  "cik": 842023,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 1219635000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 429363000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 790272000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingIncome": {
+      "value": 102255000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "netIncome": {
+      "value": 73400000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 608300000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 2557868000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 175849000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2068850000,
+      "year": 2024,
+      "periodEnd": "2024-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 287556000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": {
+      "value": 31006000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:31.031Z"
+}

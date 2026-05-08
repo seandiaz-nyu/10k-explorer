@@ -1,0 +1,57 @@
+{
+  "ticker": "ETR",
+  "name": "ENTERGY CORP /DE/",
+  "cik": 65984,
+  "fiscalYear": 2023,
+  "metrics": {
+    "revenue": {
+      "value": 12147412000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 3202278000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 2356536000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "currentAssets": {
+      "value": 5806851000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 71890730000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 7822968000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 16923076000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 5150651000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 7684922000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:48:52.181Z"
+}

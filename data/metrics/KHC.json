@@ -1,0 +1,69 @@
+{
+  "ticker": "KHC",
+  "name": "Kraft Heinz Co",
+  "cik": 1637459,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 24942000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "cogs": {
+      "value": 16633000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "grossProfit": {
+      "value": 8309000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingIncome": {
+      "value": -4669000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "netIncome": {
+      "value": -5846000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentAssets": {
+      "value": 10127000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalAssets": {
+      "value": 81786000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentLiabilities": {
+      "value": 8778000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalLiabilities": {
+      "value": 39997000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "shareholdersEquity": {
+      "value": 41664000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingCashFlow": {
+      "value": 4462000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "capex": {
+      "value": 801000000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:54:45.824Z"
+}

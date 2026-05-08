@@ -1,0 +1,65 @@
+{
+  "ticker": "EA",
+  "name": "ELECTRONIC ARTS INC.",
+  "cik": 712515,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7463000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "cogs": {
+      "value": 1277000000,
+      "year": 2018,
+      "periodEnd": "2018-03-31"
+    },
+    "grossProfit": {
+      "value": 5920000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": 1520000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "netIncome": {
+      "value": 1121000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentAssets": {
+      "value": 3276000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalAssets": {
+      "value": 12368000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentLiabilities": {
+      "value": 3459000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalLiabilities": {
+      "value": 5982000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "shareholdersEquity": {
+      "value": 6386000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 2079000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:48:38.576Z"
+}

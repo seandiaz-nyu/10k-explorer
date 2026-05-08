@@ -1,0 +1,61 @@
+{
+  "ticker": "HPQ",
+  "name": "HP INC",
+  "cik": 47217,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 55295000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "cogs": {
+      "value": 43903000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "grossProfit": {
+      "value": 11392000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "operatingIncome": {
+      "value": 3174000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "netIncome": {
+      "value": 2529000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentAssets": {
+      "value": 22453000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalAssets": {
+      "value": 41769000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentLiabilities": {
+      "value": 29258000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -346000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "operatingCashFlow": {
+      "value": 3697000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:52:35.632Z"
+}

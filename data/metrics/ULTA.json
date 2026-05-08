@@ -1,0 +1,69 @@
+{
+  "ticker": "ULTA",
+  "name": "Ulta Beauty, Inc.",
+  "cik": 1403568,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12392820000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "cogs": {
+      "value": 3787697000,
+      "year": 2017,
+      "periodEnd": "2018-02-03"
+    },
+    "grossProfit": {
+      "value": 4845224000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingIncome": {
+      "value": 1532992000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "netIncome": {
+      "value": 1153479000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 3144146000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 6999294000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 2224342000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": {
+      "value": 4195843000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "shareholdersEquity": {
+      "value": 2803451000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 1502780000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 434829000,
+      "year": 2025,
+      "periodEnd": "2026-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:04:43.077Z"
+}

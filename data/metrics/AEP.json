@@ -1,0 +1,61 @@
+{
+  "ticker": "AEP",
+  "name": "AMERICAN ELECTRIC POWER CO INC",
+  "cik": 4904,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21702000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 5319000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 1480000000,
+      "year": 2013,
+      "periodEnd": "2013-12-31"
+    },
+    "currentAssets": {
+      "value": 6052000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 114460000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 13314000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 82204000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 31138000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 6944000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 0,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:40:23.205Z"
+}

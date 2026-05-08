@@ -1,0 +1,65 @@
+{
+  "ticker": "SBUX",
+  "name": "STARBUCKS CORP",
+  "cik": 829224,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 37184400000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "cogs": {
+      "value": 8526900000,
+      "year": 2019,
+      "periodEnd": "2019-09-29"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2936600000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "netIncome": {
+      "value": 1856400000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "currentAssets": {
+      "value": 7382300000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "totalAssets": {
+      "value": 32019700000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "currentLiabilities": {
+      "value": 10210400000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "totalLiabilities": {
+      "value": 40108900000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "shareholdersEquity": {
+      "value": -8096600000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "operatingCashFlow": {
+      "value": 4747500000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "capex": {
+      "value": 2305500000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:02:35.986Z"
+}

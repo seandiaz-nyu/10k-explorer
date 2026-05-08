@@ -1,0 +1,65 @@
+{
+  "ticker": "ADI",
+  "name": "ANALOG DEVICES INC",
+  "cik": 6281,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11019707000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "cogs": {
+      "value": 4246229000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "grossProfit": {
+      "value": 6773478000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "operatingIncome": {
+      "value": 2932496000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "netIncome": {
+      "value": 2267342000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "currentAssets": {
+      "value": 7108061000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "totalAssets": {
+      "value": 47992712000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "currentLiabilities": {
+      "value": 3245801000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 33815755000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "operatingCashFlow": {
+      "value": 4812202000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    },
+    "capex": {
+      "value": 533552000,
+      "year": 2025,
+      "periodEnd": "2025-11-01"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:40:57.417Z"
+}

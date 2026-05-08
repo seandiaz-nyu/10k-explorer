@@ -1,0 +1,65 @@
+{
+  "ticker": "DRI",
+  "name": "DARDEN RESTAURANTS INC",
+  "cik": 940944,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 12076700000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "cogs": {
+      "value": 4990500000,
+      "year": 2014,
+      "periodEnd": "2014-05-25"
+    },
+    "grossProfit": {
+      "value": 2472700000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "operatingIncome": {
+      "value": 1362300000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "netIncome": {
+      "value": 1049600000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "currentAssets": {
+      "value": 937700000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "totalAssets": {
+      "value": 12587000000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "currentLiabilities": {
+      "value": 2247500000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "totalLiabilities": {
+      "value": 10275700000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "shareholdersEquity": {
+      "value": 2311300000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "operatingCashFlow": null,
+    "capex": {
+      "value": 644600000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:47:04.916Z"
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "MA",
+  "name": "Mastercard Inc",
+  "cik": 1141391,
+  "fiscalYear": 2021,
+  "metrics": {
+    "revenue": {
+      "value": 29845000000,
+      "year": 2021,
+      "periodEnd": "2021-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 18897000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 3116000000,
+      "year": 2013,
+      "periodEnd": "2013-12-31"
+    },
+    "currentAssets": {
+      "value": 23558000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 54157000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 22762000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 46411000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 7737000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 17648000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 489000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:07.062Z"
+}

@@ -1,0 +1,61 @@
+{
+  "ticker": "QCOM",
+  "name": "QUALCOMM INC/DE",
+  "cik": 804328,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 44284000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "cogs": {
+      "value": 19738000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 12355000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "netIncome": {
+      "value": 5541000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "currentAssets": {
+      "value": 25754000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "totalAssets": {
+      "value": 50143000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "currentLiabilities": {
+      "value": 9144000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "totalLiabilities": {
+      "value": 28937000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "shareholdersEquity": {
+      "value": 4909000000,
+      "year": 2019,
+      "periodEnd": "2019-09-29"
+    },
+    "operatingCashFlow": {
+      "value": 14012000000,
+      "year": 2025,
+      "periodEnd": "2025-09-28"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:00:29.398Z"
+}

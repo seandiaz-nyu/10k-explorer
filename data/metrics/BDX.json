@@ -1,0 +1,65 @@
+{
+  "ticker": "BDX",
+  "name": "BECTON DICKINSON & CO",
+  "cik": 10795,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21840000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 11915000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": 7577000000,
+      "year": 2020,
+      "periodEnd": "2020-09-30"
+    },
+    "operatingIncome": {
+      "value": 2579000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "netIncome": {
+      "value": 1678000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 9255000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 55325000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 8313000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 25390000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 4647000000,
+      "year": 2021,
+      "periodEnd": "2021-09-30"
+    },
+    "capex": {
+      "value": 760000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:24.500Z"
+}

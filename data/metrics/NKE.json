@@ -1,0 +1,61 @@
+{
+  "ticker": "NKE",
+  "name": "NIKE, Inc.",
+  "cik": 320187,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 46309000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "cogs": {
+      "value": 26519000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "grossProfit": {
+      "value": 19790000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 3219000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentAssets": {
+      "value": 23362000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalAssets": {
+      "value": 36579000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentLiabilities": {
+      "value": 10566000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 13213000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "operatingCashFlow": {
+      "value": 3698000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "capex": {
+      "value": 430000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:57:40.316Z"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "PANW",
+  "name": "Palo Alto Networks Inc",
+  "cik": 1327567,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9221500000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "cogs": {
+      "value": 2451600000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "grossProfit": {
+      "value": 6769900000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "operatingIncome": {
+      "value": 1242900000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "netIncome": {
+      "value": 1133900000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "currentAssets": {
+      "value": 7522800000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "totalAssets": {
+      "value": 23576200000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "currentLiabilities": {
+      "value": 7988000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "totalLiabilities": {
+      "value": 15751800000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "shareholdersEquity": {
+      "value": 7824400000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "operatingCashFlow": {
+      "value": 3716000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:58:59.415Z"
+}

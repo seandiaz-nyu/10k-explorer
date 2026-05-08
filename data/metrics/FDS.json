@@ -1,0 +1,65 @@
+{
+  "ticker": "FDS",
+  "name": "FACTSET RESEARCH SYSTEMS INC",
+  "cik": 1013237,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2321748000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "cogs": {
+      "value": 1097782000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 748303000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "netIncome": {
+      "value": 597040000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "currentAssets": {
+      "value": 729759000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "totalAssets": {
+      "value": 4304272000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "currentLiabilities": {
+      "value": 521306000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "totalLiabilities": {
+      "value": 2117859000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "shareholdersEquity": {
+      "value": 2186413000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "operatingCashFlow": {
+      "value": 726260000,
+      "year": 2025,
+      "periodEnd": "2025-08-31"
+    },
+    "capex": {
+      "value": 60786000,
+      "year": 2023,
+      "periodEnd": "2023-08-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:50:02.179Z"
+}

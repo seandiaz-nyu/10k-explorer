@@ -1,0 +1,69 @@
+{
+  "ticker": "TRMB",
+  "name": "TRIMBLE INC.",
+  "cik": 864749,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3587300000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "cogs": {
+      "value": 1109400000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "grossProfit": {
+      "value": 2477900000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "operatingIncome": {
+      "value": 592000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "netIncome": {
+      "value": 424000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "currentAssets": {
+      "value": 1631900000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "totalAssets": {
+      "value": 9312000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "currentLiabilities": {
+      "value": 1503400000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "totalLiabilities": {
+      "value": 3475800000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "shareholdersEquity": {
+      "value": 5836200000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "operatingCashFlow": {
+      "value": 386200000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "capex": {
+      "value": 25300000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:04:17.279Z"
+}

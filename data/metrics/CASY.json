@@ -1,0 +1,65 @@
+{
+  "ticker": "CASY",
+  "name": "CASEYS GENERAL STORES INC",
+  "cik": 726958,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15940899000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "cogs": {
+      "value": 5825426000,
+      "year": 2017,
+      "periodEnd": "2017-04-30"
+    },
+    "grossProfit": {
+      "value": 2144684000,
+      "year": 2020,
+      "periodEnd": "2020-04-30"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 546520000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "currentAssets": {
+      "value": 1012853000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "totalAssets": {
+      "value": 8208118000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "currentLiabilities": {
+      "value": 1101693000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "totalLiabilities": {
+      "value": 4699448000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "shareholdersEquity": {
+      "value": 3508670000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "operatingCashFlow": {
+      "value": 1090854000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    },
+    "capex": {
+      "value": 506224000,
+      "year": 2025,
+      "periodEnd": "2025-04-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:44:04.898Z"
+}

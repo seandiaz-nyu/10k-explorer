@@ -1,0 +1,65 @@
+{
+  "ticker": "INTU",
+  "name": "INTUIT INC.",
+  "cik": 896878,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18831000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "cogs": {
+      "value": 322000000,
+      "year": 2020,
+      "periodEnd": "2020-07-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 4923000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "netIncome": {
+      "value": 3869000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "currentAssets": {
+      "value": 14107000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "totalAssets": {
+      "value": 36958000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "currentLiabilities": {
+      "value": 10370000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "totalLiabilities": {
+      "value": 17248000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "shareholdersEquity": {
+      "value": 19710000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "operatingCashFlow": {
+      "value": 6207000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "capex": {
+      "value": 84000000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:53:33.119Z"
+}

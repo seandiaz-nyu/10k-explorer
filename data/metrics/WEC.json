@@ -1,0 +1,61 @@
+{
+  "ticker": "WEC",
+  "name": "WEC ENERGY GROUP, INC.",
+  "cik": 783325,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 9800100000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 3265800000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2244900000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 640300000,
+      "year": 2015,
+      "periodEnd": "2015-12-31"
+    },
+    "currentAssets": {
+      "value": 3284700000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 51518300000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 5593400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 9491800000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 3379400000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 2696900000,
+      "year": 2022,
+      "periodEnd": "2022-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:06:22.413Z"
+}

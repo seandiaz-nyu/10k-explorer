@@ -1,0 +1,69 @@
+{
+  "ticker": "MU",
+  "name": "MICRON TECHNOLOGY INC",
+  "cik": 723125,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 37378000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "cogs": {
+      "value": 22505000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "grossProfit": {
+      "value": 14873000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "operatingIncome": {
+      "value": 9770000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "netIncome": {
+      "value": 8539000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "currentAssets": {
+      "value": 28841000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "totalAssets": {
+      "value": 82798000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "currentLiabilities": {
+      "value": 11454000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "totalLiabilities": {
+      "value": 28633000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "shareholdersEquity": {
+      "value": 54165000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "operatingCashFlow": {
+      "value": 17525000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    },
+    "capex": {
+      "value": 15857000000,
+      "year": 2025,
+      "periodEnd": "2025-08-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:39.904Z"
+}

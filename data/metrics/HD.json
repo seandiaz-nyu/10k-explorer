@@ -1,0 +1,65 @@
+{
+  "ticker": "HD",
+  "name": "HOME DEPOT, INC.",
+  "cik": 354950,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 164683000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "cogs": {
+      "value": 109818000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "grossProfit": {
+      "value": 54865000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "operatingIncome": {
+      "value": 20890000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "netIncome": {
+      "value": 14156000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "currentAssets": {
+      "value": 34391000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "totalAssets": {
+      "value": 105095000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "currentLiabilities": {
+      "value": 32424000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "totalLiabilities": {
+      "value": 92282000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "shareholdersEquity": {
+      "value": 12813000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "operatingCashFlow": {
+      "value": 16325000000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:52:18.568Z"
+}

@@ -1,0 +1,69 @@
+{
+  "ticker": "DPZ",
+  "name": "DOMINOS PIZZA INC",
+  "cik": 1286681,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4939994000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "cogs": {
+      "value": 2966434000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "grossProfit": {
+      "value": 1973560000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "operatingIncome": {
+      "value": 953974000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "netIncome": {
+      "value": 601704000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "currentAssets": {
+      "value": 894201000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "totalAssets": {
+      "value": 1716459000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "currentLiabilities": {
+      "value": 541621000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "totalLiabilities": {
+      "value": 5617601000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "shareholdersEquity": {
+      "value": -3901142000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "operatingCashFlow": {
+      "value": 792062000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "capex": {
+      "value": 120558000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:47:48.763Z"
+}

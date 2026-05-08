@@ -1,0 +1,69 @@
+{
+  "ticker": "NTAP",
+  "name": "NetApp, Inc.",
+  "cik": 1002047,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6572000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "cogs": {
+      "value": 1959000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "grossProfit": {
+      "value": 4613000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "operatingIncome": {
+      "value": 1337000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "netIncome": {
+      "value": 1186000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "currentAssets": {
+      "value": 5851000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "totalAssets": {
+      "value": 10823000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "currentLiabilities": {
+      "value": 4662000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "totalLiabilities": {
+      "value": 9783000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "shareholdersEquity": {
+      "value": 1040000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "operatingCashFlow": {
+      "value": 1506000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "capex": {
+      "value": 168000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:57:22.864Z"
+}

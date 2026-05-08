@@ -1,0 +1,69 @@
+{
+  "ticker": "AMCR",
+  "name": "Amcor plc",
+  "cik": 1748790,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15009000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "cogs": {
+      "value": 12175000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "grossProfit": {
+      "value": 2834000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingIncome": {
+      "value": 1009000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "netIncome": {
+      "value": 511000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentAssets": {
+      "value": 8434000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalAssets": {
+      "value": 37066000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "currentLiabilities": {
+      "value": 6987000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "totalLiabilities": {
+      "value": 25326000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "shareholdersEquity": {
+      "value": 11728000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "operatingCashFlow": {
+      "value": 1390000000,
+      "year": 2025,
+      "periodEnd": "2025-06-30"
+    },
+    "capex": {
+      "value": 332200000,
+      "year": 2019,
+      "periodEnd": "2019-06-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:40:15.358Z"
+}

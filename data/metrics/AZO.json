@@ -1,0 +1,65 @@
+{
+  "ticker": "AZO",
+  "name": "AUTOZONE INC",
+  "cik": 866787,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 18938717000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "cogs": {
+      "value": 8972243000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "grossProfit": {
+      "value": 9966474000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "operatingIncome": {
+      "value": 3610156000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "netIncome": {
+      "value": 2498247000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "currentAssets": {
+      "value": 8341379000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "totalAssets": {
+      "value": 19355324000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "currentLiabilities": {
+      "value": 9519397000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": -3414313000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "operatingCashFlow": {
+      "value": 3117337000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    },
+    "capex": {
+      "value": 1327257000,
+      "year": 2025,
+      "periodEnd": "2025-08-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:41:58.416Z"
+}

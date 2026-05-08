@@ -1,0 +1,69 @@
+{
+  "ticker": "GIS",
+  "name": "GENERAL MILLS INC",
+  "cik": 40704,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 19486600000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "cogs": {
+      "value": 12753600000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "grossProfit": {
+      "value": 1474000000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "operatingIncome": {
+      "value": 3304800000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "netIncome": {
+      "value": 2295200000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "currentAssets": {
+      "value": 5275700000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "totalAssets": {
+      "value": 33071100000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "currentLiabilities": {
+      "value": 7857300000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "totalLiabilities": {
+      "value": 23859900000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "shareholdersEquity": {
+      "value": 9199200000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "operatingCashFlow": {
+      "value": 2918200000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "capex": {
+      "value": 625300000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:51:21.704Z"
+}

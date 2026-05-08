@@ -1,0 +1,69 @@
+{
+  "ticker": "FIX",
+  "name": "COMFORT SYSTEMS USA INC",
+  "cik": 1035983,
+  "fiscalYear": 2020,
+  "metrics": {
+    "revenue": {
+      "value": 2856659000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "cogs": {
+      "value": 1421641000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "grossProfit": {
+      "value": 2195899000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 1314589000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 1022558000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 4110553000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 6441169000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 3393850000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 3992395000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 2448774000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1186356000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 154903000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:01.353Z"
+}

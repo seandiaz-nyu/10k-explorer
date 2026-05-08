@@ -1,0 +1,65 @@
+{
+  "ticker": "RL",
+  "name": "RALPH LAUREN CORP",
+  "cik": 1037038,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7079000000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "cogs": {
+      "value": 2226100000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "grossProfit": {
+      "value": 4852900000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "operatingIncome": {
+      "value": 932100000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "netIncome": {
+      "value": 742900000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "currentAssets": {
+      "value": 3789900000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "totalAssets": {
+      "value": 7047300000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "currentLiabilities": {
+      "value": 2133700000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "totalLiabilities": {
+      "value": 4458800000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "shareholdersEquity": {
+      "value": 2588500000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "operatingCashFlow": {
+      "value": 1235100000,
+      "year": 2025,
+      "periodEnd": "2025-03-29"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:00:39.528Z"
+}

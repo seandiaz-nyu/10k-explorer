@@ -1,0 +1,65 @@
+{
+  "ticker": "CTAS",
+  "name": "CINTAS CORP",
+  "cik": 723254,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 10340181000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "cogs": {
+      "value": 5166017000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "grossProfit": {
+      "value": 5174164000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "operatingIncome": {
+      "value": 2359726000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "netIncome": {
+      "value": 1812281000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentAssets": {
+      "value": 3436169000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalAssets": {
+      "value": 9825241000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentLiabilities": {
+      "value": 1644502000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 4684481000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "operatingCashFlow": {
+      "value": 2165905000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "capex": {
+      "value": 408884000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:45:18.479Z"
+}

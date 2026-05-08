@@ -1,0 +1,69 @@
+{
+  "ticker": "LOW",
+  "name": "LOWES COMPANIES INC",
+  "cik": 60667,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 86286000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "cogs": {
+      "value": 57401000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "grossProfit": {
+      "value": 28885000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "operatingIncome": {
+      "value": 10153000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "netIncome": {
+      "value": 6654000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "currentAssets": {
+      "value": 20955000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "totalAssets": {
+      "value": 54144000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "currentLiabilities": {
+      "value": 19463000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "totalLiabilities": {
+      "value": 64061000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "shareholdersEquity": {
+      "value": -9917000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "operatingCashFlow": {
+      "value": 9864000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "capex": {
+      "value": 2213000000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:55:34.412Z"
+}

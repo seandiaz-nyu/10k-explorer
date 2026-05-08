@@ -1,0 +1,69 @@
+{
+  "ticker": "KVUE",
+  "name": "Kenvue Inc.",
+  "cik": 1944048,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15124000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "cogs": {
+      "value": 6332000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "grossProfit": {
+      "value": 8792000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "operatingIncome": {
+      "value": 2414000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "netIncome": {
+      "value": 1470000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "currentAssets": {
+      "value": 5697000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "totalAssets": {
+      "value": 27076000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "currentLiabilities": {
+      "value": 5945000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "totalLiabilities": {
+      "value": 16311000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "shareholdersEquity": {
+      "value": 10765000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "operatingCashFlow": {
+      "value": 2197000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "capex": {
+      "value": 475000000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:54:14.040Z"
+}

@@ -1,0 +1,69 @@
+{
+  "ticker": "VEEV",
+  "name": "VEEVA SYSTEMS INC",
+  "cik": 1393052,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 3195311000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "cogs": {
+      "value": 782019000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "grossProfit": {
+      "value": 2413292000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingIncome": {
+      "value": 916369000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "netIncome": {
+      "value": 908906000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 7997630000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 8979343000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 1637056000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": {
+      "value": 1764591000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "shareholdersEquity": {
+      "value": 7214752000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 1415225000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 3113000,
+      "year": 2020,
+      "periodEnd": "2020-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:05:17.353Z"
+}

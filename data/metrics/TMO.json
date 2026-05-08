@@ -1,0 +1,65 @@
+{
+  "ticker": "TMO",
+  "name": "THERMO FISHER SCIENTIFIC INC.",
+  "cik": 97745,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 44556000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 8976000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "grossProfit": {
+      "value": 3035000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    },
+    "operatingIncome": {
+      "value": 7746000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 6704000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 28707000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 110343000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 15189000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 53407000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 7818000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 1525000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:03:49.777Z"
+}

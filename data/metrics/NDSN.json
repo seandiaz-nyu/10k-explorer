@@ -1,0 +1,65 @@
+{
+  "ticker": "NDSN",
+  "name": "NORDSON CORP",
+  "cik": 72331,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2791687000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "cogs": {
+      "value": 1251903000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "grossProfit": {
+      "value": 296868000,
+      "year": 2020,
+      "periodEnd": "2020-10-31"
+    },
+    "operatingIncome": {
+      "value": 711725000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "netIncome": {
+      "value": 484474000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentAssets": {
+      "value": 1242851000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalAssets": {
+      "value": 5917681000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentLiabilities": {
+      "value": 758260000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 3043571000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "operatingCashFlow": {
+      "value": 719175000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "capex": {
+      "value": 58060000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:57:46.423Z"
+}

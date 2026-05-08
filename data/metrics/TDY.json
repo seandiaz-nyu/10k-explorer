@@ -1,0 +1,69 @@
+{
+  "ticker": "TDY",
+  "name": "TELEDYNE TECHNOLOGIES INC",
+  "cik": 1094285,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6115400000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "cogs": {
+      "value": 3500600000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "grossProfit": {
+      "value": 221600000,
+      "year": 2015,
+      "periodEnd": "2016-01-03"
+    },
+    "operatingIncome": {
+      "value": 1149800000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "netIncome": {
+      "value": 894800000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "currentAssets": {
+      "value": 3055600000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "totalAssets": {
+      "value": 15285300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "currentLiabilities": {
+      "value": 1860100000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "totalLiabilities": {
+      "value": 4771400000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "shareholdersEquity": {
+      "value": 10513900000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "operatingCashFlow": {
+      "value": 1191300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    },
+    "capex": {
+      "value": 117300000,
+      "year": 2025,
+      "periodEnd": "2025-12-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:03:31.986Z"
+}

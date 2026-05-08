@@ -1,0 +1,65 @@
+{
+  "ticker": "KEYS",
+  "name": "Keysight Technologies, Inc.",
+  "cik": 1601046,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5375000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "cogs": {
+      "value": 2038000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 876000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "netIncome": {
+      "value": 850000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentAssets": {
+      "value": 4348000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalAssets": {
+      "value": 11301000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentLiabilities": {
+      "value": 1850000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalLiabilities": {
+      "value": 5420000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "shareholdersEquity": {
+      "value": 5881000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "operatingCashFlow": {
+      "value": 1409000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "capex": {
+      "value": 128000000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:54:23.900Z"
+}

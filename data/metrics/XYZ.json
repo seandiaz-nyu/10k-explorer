@@ -1,0 +1,69 @@
+{
+  "ticker": "XYZ",
+  "name": "Block, Inc.",
+  "cik": 1512673,
+  "fiscalYear": 2018,
+  "metrics": {
+    "revenue": {
+      "value": 3205500000,
+      "year": 2018,
+      "periodEnd": "2018-12-31"
+    },
+    "cogs": {
+      "value": 143901000,
+      "year": 2020,
+      "periodEnd": "2020-12-31"
+    },
+    "grossProfit": {
+      "value": 10359929000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 1708406000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 1305636000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 22856880000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 39549887000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 10384460000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 17380005000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 22204278000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2579714000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 155038000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:44.700Z"
+}

@@ -1,0 +1,69 @@
+{
+  "ticker": "CAG",
+  "name": "CONAGRA BRANDS INC.",
+  "cik": 23217,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11612800000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "cogs": {
+      "value": 8609300000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "grossProfit": {
+      "value": 3003500000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "operatingIncome": {
+      "value": 1364600000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "netIncome": {
+      "value": 1152400000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "currentAssets": {
+      "value": 3071000000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "totalAssets": {
+      "value": 20933900000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "currentLiabilities": {
+      "value": 4317000000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "totalLiabilities": {
+      "value": 12001200000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "shareholdersEquity": {
+      "value": 8932700000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "operatingCashFlow": {
+      "value": 1691900000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    },
+    "capex": {
+      "value": 389300000,
+      "year": 2025,
+      "periodEnd": "2025-05-25"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:04.569Z"
+}

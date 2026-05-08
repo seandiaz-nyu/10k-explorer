@@ -1,0 +1,61 @@
+{
+  "ticker": "DD",
+  "name": "DuPont de Nemours, Inc.",
+  "cik": 1666700,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6849000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 4486000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "grossProfit": {
+      "value": 20644000000,
+      "year": 2018,
+      "periodEnd": "2018-12-31"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": -779000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 5575000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 21575000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 2305000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 7472000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 13919000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 588000000,
+      "year": 2022,
+      "periodEnd": "2022-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:48:12.568Z"
+}

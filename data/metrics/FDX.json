@@ -1,0 +1,57 @@
+{
+  "ticker": "FDX",
+  "name": "FEDEX CORP",
+  "cik": 1048911,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 87926000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "cogs": {
+      "value": 16654000000,
+      "year": 2019,
+      "periodEnd": "2019-05-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 5217000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "netIncome": {
+      "value": 4092000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentAssets": {
+      "value": 18386000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalAssets": {
+      "value": 87627000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "currentLiabilities": {
+      "value": 15411000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 28074000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "operatingCashFlow": {
+      "value": 7036000000,
+      "year": 2025,
+      "periodEnd": "2025-05-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:50:14.834Z"
+}

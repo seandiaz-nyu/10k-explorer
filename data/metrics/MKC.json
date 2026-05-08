@@ -1,0 +1,69 @@
+{
+  "ticker": "MKC",
+  "name": "MCCORMICK & CO INC",
+  "cik": 63754,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 6840300000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "cogs": {
+      "value": 4248100000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "grossProfit": {
+      "value": 2592200000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "operatingIncome": {
+      "value": 1070800000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "netIncome": {
+      "value": 789400000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "currentAssets": {
+      "value": 2138100000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "totalAssets": {
+      "value": 13200400000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "currentLiabilities": {
+      "value": 3062200000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "totalLiabilities": {
+      "value": 7432300000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "shareholdersEquity": {
+      "value": 5736500000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "operatingCashFlow": {
+      "value": 962200000,
+      "year": 2025,
+      "periodEnd": "2025-11-30"
+    },
+    "capex": {
+      "value": 262000000,
+      "year": 2022,
+      "periodEnd": "2022-11-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:11.346Z"
+}

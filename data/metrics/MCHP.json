@@ -1,0 +1,65 @@
+{
+  "ticker": "MCHP",
+  "name": "MICROCHIP TECHNOLOGY INC",
+  "cik": 827054,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4401600000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "cogs": {
+      "value": 1933700000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "grossProfit": {
+      "value": 2467900000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingIncome": {
+      "value": 296300000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "netIncome": {
+      "value": -500000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentAssets": {
+      "value": 2991300000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalAssets": {
+      "value": 15374600000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "currentLiabilities": {
+      "value": 1155100000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 7078300000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "operatingCashFlow": {
+      "value": 898100000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    },
+    "capex": {
+      "value": 126000000,
+      "year": 2025,
+      "periodEnd": "2025-03-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:36.588Z"
+}

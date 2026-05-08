@@ -1,0 +1,69 @@
+{
+  "ticker": "STZ",
+  "name": "CONSTELLATION BRANDS, INC.",
+  "cik": 16918,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 9139000000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "cogs": {
+      "value": 4427500000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "grossProfit": {
+      "value": 4711500000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "operatingIncome": {
+      "value": 2721400000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "netIncome": {
+      "value": 1686700000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "currentAssets": {
+      "value": 2906300000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "totalAssets": {
+      "value": 21900500000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "currentLiabilities": {
+      "value": 2689800000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "totalLiabilities": {
+      "value": 13513600000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "shareholdersEquity": {
+      "value": 8082400000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "operatingCashFlow": {
+      "value": 2669000000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    },
+    "capex": {
+      "value": 875000000,
+      "year": 2026,
+      "periodEnd": "2026-02-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:14.130Z"
+}

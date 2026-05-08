@@ -1,0 +1,69 @@
+{
+  "ticker": "FFIV",
+  "name": "F5, INC.",
+  "cik": 1048695,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 3088072000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 573978000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": 2514094000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingIncome": {
+      "value": 765949000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "netIncome": {
+      "value": 692380000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": {
+      "value": 2518701000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalAssets": {
+      "value": 6319492000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": {
+      "value": 1612581000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "totalLiabilities": {
+      "value": 1628778000,
+      "year": 2019,
+      "periodEnd": "2019-09-30"
+    },
+    "shareholdersEquity": {
+      "value": 3591999000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 949666000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "capex": {
+      "value": 43260000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:49:59.008Z"
+}

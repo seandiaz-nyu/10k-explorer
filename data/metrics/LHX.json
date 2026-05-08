@@ -1,0 +1,69 @@
+{
+  "ticker": "LHX",
+  "name": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+  "cik": 202058,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 21865000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "cogs": {
+      "value": 16240000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "grossProfit": {
+      "value": 1871700000,
+      "year": 2010,
+      "periodEnd": "2010-07-02"
+    },
+    "operatingIncome": {
+      "value": 2110000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "netIncome": {
+      "value": 1606000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "currentAssets": {
+      "value": 8593000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "totalAssets": {
+      "value": 41195000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "currentLiabilities": {
+      "value": 7226000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "totalLiabilities": {
+      "value": 21560000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "shareholdersEquity": {
+      "value": 19635000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "operatingCashFlow": {
+      "value": 3106000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    },
+    "capex": {
+      "value": 424000000,
+      "year": 2025,
+      "periodEnd": "2026-01-02"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:54:52.196Z"
+}

@@ -1,0 +1,53 @@
+{
+  "ticker": "INVH",
+  "name": "Invitation Homes Inc.",
+  "cik": 1687229,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 2729296000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 118207000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "netIncome": {
+      "value": 587924000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 18680290000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 9112398000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 9530132000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1206230000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 4086000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:53:43.855Z"
+}

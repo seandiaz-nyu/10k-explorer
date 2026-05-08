@@ -1,0 +1,69 @@
+{
+  "ticker": "TSCO",
+  "name": "TRACTOR SUPPLY CO /DE/",
+  "cik": 916365,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 15524046000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "cogs": {
+      "value": 9869538000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "grossProfit": {
+      "value": 5654508000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingIncome": {
+      "value": 1467389000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "netIncome": {
+      "value": 1096087000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentAssets": {
+      "value": 3507797000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalAssets": {
+      "value": 10933679000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "currentLiabilities": {
+      "value": 2614449000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "totalLiabilities": {
+      "value": 8352386000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "shareholdersEquity": {
+      "value": 2581293000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "operatingCashFlow": {
+      "value": 1635259000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    },
+    "capex": {
+      "value": 894770000,
+      "year": 2025,
+      "periodEnd": "2025-12-27"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:04:03.515Z"
+}

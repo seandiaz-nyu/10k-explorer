@@ -1,0 +1,65 @@
+{
+  "ticker": "J",
+  "name": "JACOBS SOLUTIONS INC.",
+  "cik": 52988,
+  "fiscalYear": 2018,
+  "metrics": {
+    "revenue": {
+      "value": 14984646000,
+      "year": 2018,
+      "periodEnd": "2018-09-28"
+    },
+    "cogs": {
+      "value": 9044849000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "grossProfit": {
+      "value": 2984934000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "operatingIncome": {
+      "value": 863634000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "netIncome": {
+      "value": 289336000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "currentAssets": {
+      "value": 4359319000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "totalAssets": {
+      "value": 11252535000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "currentLiabilities": {
+      "value": 3350899000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 3640807000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "operatingCashFlow": {
+      "value": 686704000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    },
+    "capex": {
+      "value": 79232000,
+      "year": 2025,
+      "periodEnd": "2025-09-26"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:54:07.154Z"
+}

@@ -1,0 +1,65 @@
+{
+  "ticker": "HRL",
+  "name": "HORMEL FOODS CORP /DE/",
+  "cik": 48465,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": {
+      "value": 9167519000,
+      "year": 2017,
+      "periodEnd": "2017-10-29"
+    },
+    "cogs": {
+      "value": 10214344000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "grossProfit": {
+      "value": 1891816000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "operatingIncome": {
+      "value": 718603000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "netIncome": {
+      "value": 478197000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "currentAssets": {
+      "value": 3405656000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "totalAssets": {
+      "value": 13393119000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "currentLiabilities": {
+      "value": 1380796000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 7901171000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "operatingCashFlow": {
+      "value": 845251000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    },
+    "capex": {
+      "value": 310902000,
+      "year": 2025,
+      "periodEnd": "2025-10-26"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:52:25.498Z"
+}

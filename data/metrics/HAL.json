@@ -1,0 +1,61 @@
+{
+  "ticker": "HAL",
+  "name": "HALLIBURTON CO",
+  "cik": 45012,
+  "fiscalYear": 2010,
+  "metrics": {
+    "revenue": {
+      "value": 17973000000,
+      "year": 2010,
+      "periodEnd": "2010-12-31"
+    },
+    "cogs": {
+      "value": 4142000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 2260000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 1283000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 11398000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 25010000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 5588000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 14505000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 10461000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 2926000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:51:47.346Z"
+}

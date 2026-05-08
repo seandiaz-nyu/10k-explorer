@@ -1,0 +1,65 @@
+{
+  "ticker": "TJX",
+  "name": "TJX COMPANIES INC /DE/",
+  "cik": 109198,
+  "fiscalYear": 2014,
+  "metrics": {
+    "revenue": {
+      "value": 29078407000,
+      "year": 2014,
+      "periodEnd": "2015-01-31"
+    },
+    "cogs": {
+      "value": 41679000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "grossProfit": {
+      "value": 3060635000,
+      "year": 2020,
+      "periodEnd": "2021-01-30"
+    },
+    "operatingIncome": {
+      "value": 4763227000,
+      "year": 2018,
+      "periodEnd": "2019-02-02"
+    },
+    "netIncome": {
+      "value": 5494000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 15202000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 35767000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 13361000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 10190000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 6874000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 1957000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:03:53.728Z"
+}

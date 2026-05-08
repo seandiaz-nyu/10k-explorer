@@ -1,0 +1,57 @@
+{
+  "ticker": "DHI",
+  "name": "HORTON D R INC /DE/",
+  "cik": 882184,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 34250400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "cogs": {
+      "value": 26134200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "grossProfit": {
+      "value": 160000000,
+      "year": 2011,
+      "periodEnd": "2011-09-30"
+    },
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 3585200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 35471200000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 10729000000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "shareholdersEquity": {
+      "value": 24190400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "operatingCashFlow": {
+      "value": 3420900000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    },
+    "capex": {
+      "value": 137400000,
+      "year": 2025,
+      "periodEnd": "2025-09-30"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:48:03.030Z"
+}

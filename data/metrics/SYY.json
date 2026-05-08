@@ -1,0 +1,61 @@
+{
+  "ticker": "SYY",
+  "name": "SYSCO CORP",
+  "cik": 96021,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 81370000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "cogs": {
+      "value": 66401000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "grossProfit": {
+      "value": 14969000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "operatingIncome": {
+      "value": 3088000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "netIncome": {
+      "value": 1828000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "currentAssets": {
+      "value": 11968000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "totalAssets": {
+      "value": 26774000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "currentLiabilities": {
+      "value": 9916000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 1830000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "operatingCashFlow": {
+      "value": 2510000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T19:03:07.690Z"
+}

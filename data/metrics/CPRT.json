@@ -1,0 +1,69 @@
+{
+  "ticker": "CPRT",
+  "name": "COPART INC",
+  "cik": 900075,
+  "fiscalYear": 2020,
+  "metrics": {
+    "revenue": {
+      "value": 525659000,
+      "year": 2020,
+      "periodEnd": "2020-07-31"
+    },
+    "cogs": {
+      "value": 255504000,
+      "year": 2019,
+      "periodEnd": "2019-07-31"
+    },
+    "grossProfit": {
+      "value": 250431000,
+      "year": 2020,
+      "periodEnd": "2020-07-31"
+    },
+    "operatingIncome": {
+      "value": 1696714000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "netIncome": {
+      "value": 1552449000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "currentAssets": {
+      "value": 5754628000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "totalAssets": {
+      "value": 10090902000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "currentLiabilities": {
+      "value": 683281000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "totalLiabilities": {
+      "value": 883411000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "shareholdersEquity": {
+      "value": 5987440000,
+      "year": 2023,
+      "periodEnd": "2023-07-31"
+    },
+    "operatingCashFlow": {
+      "value": 1799750000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    },
+    "capex": {
+      "value": 568990000,
+      "year": 2025,
+      "periodEnd": "2025-07-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:24.113Z"
+}

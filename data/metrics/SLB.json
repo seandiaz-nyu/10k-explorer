@@ -1,0 +1,65 @@
+{
+  "ticker": "SLB",
+  "name": "SLB LIMITED/NV",
+  "cik": 87347,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 35708000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": {
+      "value": 28321000000,
+      "year": 2015,
+      "periodEnd": "2015-12-31"
+    },
+    "grossProfit": null,
+    "operatingIncome": {
+      "value": 6523000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "netIncome": {
+      "value": 3374000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 19513000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 54868000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 14721000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 27577000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 26109000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 6489000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 1694000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:01:49.799Z"
+}

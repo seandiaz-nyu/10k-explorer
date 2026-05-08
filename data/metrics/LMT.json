@@ -1,0 +1,69 @@
+{
+  "ticker": "LMT",
+  "name": "LOCKHEED MARTIN CORP",
+  "cik": 936468,
+  "fiscalYear": 2019,
+  "metrics": {
+    "revenue": {
+      "value": 59812000000,
+      "year": 2019,
+      "periodEnd": "2019-12-31"
+    },
+    "cogs": {
+      "value": 57983000000,
+      "year": 2021,
+      "periodEnd": "2021-12-31"
+    },
+    "grossProfit": {
+      "value": 7619000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingIncome": {
+      "value": 7731000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "netIncome": {
+      "value": 5017000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": {
+      "value": 25362000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 59840000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 23335000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 53119000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 6721000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 8557000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 942000000,
+      "year": 2012,
+      "periodEnd": "2012-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:55:27.591Z"
+}

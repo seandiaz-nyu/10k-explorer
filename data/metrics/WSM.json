@@ -1,0 +1,69 @@
+{
+  "ticker": "WSM",
+  "name": "WILLIAMS SONOMA INC",
+  "cik": 719955,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7806816000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "cogs": {
+      "value": 4203765000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "grossProfit": {
+      "value": 3603051000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "operatingIncome": {
+      "value": 1415722000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "netIncome": {
+      "value": 1088437000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "currentAssets": {
+      "value": 2713187000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "totalAssets": {
+      "value": 5411912000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "currentLiabilities": {
+      "value": 1954130000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "totalLiabilities": {
+      "value": 3329353000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "shareholdersEquity": {
+      "value": 2082559000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "operatingCashFlow": {
+      "value": 1314889000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "capex": {
+      "value": 259438000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:06:40.460Z"
+}

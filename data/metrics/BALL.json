@@ -1,0 +1,69 @@
+{
+  "ticker": "BALL",
+  "name": "BALL Corp",
+  "cik": 9389,
+  "fiscalYear": 2017,
+  "metrics": {
+    "revenue": {
+      "value": 10983000000,
+      "year": 2017,
+      "periodEnd": "2017-12-31"
+    },
+    "cogs": {
+      "value": 7081200000,
+      "year": 2011,
+      "periodEnd": "2011-12-31"
+    },
+    "grossProfit": {
+      "value": 480000000,
+      "year": 2024,
+      "periodEnd": "2024-12-31"
+    },
+    "operatingIncome": {
+      "value": 1273000000,
+      "year": 2023,
+      "periodEnd": "2023-12-31"
+    },
+    "netIncome": {
+      "value": 444000000,
+      "year": 2011,
+      "periodEnd": "2011-12-31"
+    },
+    "currentAssets": {
+      "value": 6113000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalAssets": {
+      "value": 19524000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": {
+      "value": 5487000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "totalLiabilities": {
+      "value": 14103000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 5421000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 1262000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 474000000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:17.904Z"
+}

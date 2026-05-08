@@ -1,0 +1,69 @@
+{
+  "ticker": "LULU",
+  "name": "lululemon athletica inc.",
+  "cik": 1397187,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 11102600000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "cogs": {
+      "value": 4818468000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "grossProfit": {
+      "value": 6284132000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "operatingIncome": {
+      "value": 2210615000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "netIncome": {
+      "value": 1579183000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "currentAssets": {
+      "value": 4262701000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "totalAssets": {
+      "value": 8456743000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "currentLiabilities": {
+      "value": 1887548000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "totalLiabilities": {
+      "value": 3494903000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "shareholdersEquity": {
+      "value": 4961840000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "operatingCashFlow": {
+      "value": 1602477000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    },
+    "capex": {
+      "value": 680802000,
+      "year": 2025,
+      "periodEnd": "2026-02-01"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:55:37.788Z"
+}

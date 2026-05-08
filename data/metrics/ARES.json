@@ -1,0 +1,49 @@
+{
+  "ticker": "ARES",
+  "name": "Ares Management Corp",
+  "cik": 1176948,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 5601482000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "cogs": null,
+    "grossProfit": null,
+    "operatingIncome": null,
+    "netIncome": {
+      "value": 527362000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentAssets": null,
+    "totalAssets": {
+      "value": 28633369000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "currentLiabilities": null,
+    "totalLiabilities": {
+      "value": 19931981000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "shareholdersEquity": {
+      "value": 4275463000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "operatingCashFlow": {
+      "value": 3266959000,
+      "year": 2025,
+      "periodEnd": "2025-12-31"
+    },
+    "capex": {
+      "value": 18419000,
+      "year": 2018,
+      "periodEnd": "2018-12-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:41:29.280Z"
+}

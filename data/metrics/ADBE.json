@@ -1,0 +1,69 @@
+{
+  "ticker": "ADBE",
+  "name": "ADOBE INC.",
+  "cik": 796343,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 23769000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "cogs": {
+      "value": 2551000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "grossProfit": {
+      "value": 21218000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "operatingIncome": {
+      "value": 8706000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "netIncome": {
+      "value": 7130000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "currentAssets": {
+      "value": 10163000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "totalAssets": {
+      "value": 29496000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "currentLiabilities": {
+      "value": 10200000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "totalLiabilities": {
+      "value": 17873000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "shareholdersEquity": {
+      "value": 11623000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "operatingCashFlow": {
+      "value": 10031000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    },
+    "capex": {
+      "value": 179000000,
+      "year": 2025,
+      "periodEnd": "2025-11-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:39:10.754Z"
+}

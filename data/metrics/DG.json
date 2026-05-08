@@ -1,0 +1,65 @@
+{
+  "ticker": "DG",
+  "name": "DOLLAR GENERAL CORP",
+  "cik": 29534,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 42724369000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "cogs": {
+      "value": 29624680000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "grossProfit": {
+      "value": 13099689000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "operatingIncome": {
+      "value": 2203668000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "netIncome": {
+      "value": 1512311000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "currentAssets": {
+      "value": 7897803000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "totalAssets": {
+      "value": 30963730000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "currentLiabilities": {
+      "value": 6961135000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "totalLiabilities": {
+      "value": 22451768000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "shareholdersEquity": {
+      "value": 8511962000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "operatingCashFlow": {
+      "value": 3634500000,
+      "year": 2025,
+      "periodEnd": "2026-01-30"
+    },
+    "capex": null
+  },
+  "fetchedAt": "2026-05-08T18:47:38.517Z"
+}

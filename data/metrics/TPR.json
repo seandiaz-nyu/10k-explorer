@@ -1,0 +1,69 @@
+{
+  "ticker": "TPR",
+  "name": "TAPESTRY, INC.",
+  "cik": 1116132,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 7010700000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "cogs": {
+      "value": 1721800000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "grossProfit": {
+      "value": 5288900000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "operatingIncome": {
+      "value": 415000000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "netIncome": {
+      "value": 183200000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "currentAssets": {
+      "value": 2905600000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "totalAssets": {
+      "value": 6580500000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "currentLiabilities": {
+      "value": 1556900000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "totalLiabilities": {
+      "value": 5722700000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "shareholdersEquity": {
+      "value": 857800000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "operatingCashFlow": {
+      "value": 1216600000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    },
+    "capex": {
+      "value": 122700000,
+      "year": 2025,
+      "periodEnd": "2025-06-28"
+    }
+  },
+  "fetchedAt": "2026-05-08T19:03:22.084Z"
+}

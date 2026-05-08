@@ -1,0 +1,69 @@
+{
+  "ticker": "MDT",
+  "name": "Medtronic plc",
+  "cik": 1613103,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 33537000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "cogs": {
+      "value": 11632000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "grossProfit": {
+      "value": 3734000000,
+      "year": 2020,
+      "periodEnd": "2020-04-24"
+    },
+    "operatingIncome": {
+      "value": 5955000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "netIncome": {
+      "value": 4662000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "currentAssets": {
+      "value": 23814000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "totalAssets": {
+      "value": 91680000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "currentLiabilities": {
+      "value": 12879000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "totalLiabilities": {
+      "value": 43424000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "shareholdersEquity": {
+      "value": 48024000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "operatingCashFlow": {
+      "value": 7044000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    },
+    "capex": {
+      "value": 1859000000,
+      "year": 2025,
+      "periodEnd": "2025-04-25"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:56:22.605Z"
+}

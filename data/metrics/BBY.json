@@ -1,0 +1,65 @@
+{
+  "ticker": "BBY",
+  "name": "BEST BUY CO INC",
+  "cik": 764478,
+  "fiscalYear": 2026,
+  "metrics": {
+    "revenue": {
+      "value": 41691000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "cogs": {
+      "value": 32318000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "grossProfit": {
+      "value": 9373000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingIncome": {
+      "value": 1389000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "netIncome": {
+      "value": 1069000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentAssets": {
+      "value": 8504000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalAssets": {
+      "value": 14670000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "currentLiabilities": {
+      "value": 7679000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "totalLiabilities": null,
+    "shareholdersEquity": {
+      "value": 2964000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "operatingCashFlow": {
+      "value": 1962000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    },
+    "capex": {
+      "value": 704000000,
+      "year": 2026,
+      "periodEnd": "2026-01-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:42:27.695Z"
+}

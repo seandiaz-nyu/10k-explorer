@@ -1,0 +1,69 @@
+{
+  "ticker": "COO",
+  "name": "COOPER COMPANIES, INC.",
+  "cik": 711404,
+  "fiscalYear": 2025,
+  "metrics": {
+    "revenue": {
+      "value": 4092400000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "cogs": {
+      "value": 1410300000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "grossProfit": {
+      "value": 2682100000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "operatingIncome": {
+      "value": 682900000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "netIncome": {
+      "value": 374900000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentAssets": {
+      "value": 2106400000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalAssets": {
+      "value": 12394800000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "currentLiabilities": {
+      "value": 1112800000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "totalLiabilities": {
+      "value": 4155700000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "shareholdersEquity": {
+      "value": 8238900000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "operatingCashFlow": {
+      "value": 796100000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    },
+    "capex": {
+      "value": 362400000,
+      "year": 2025,
+      "periodEnd": "2025-10-31"
+    }
+  },
+  "fetchedAt": "2026-05-08T18:46:20.472Z"
+}
