@@ -113,14 +113,22 @@ export function renderTable(companies) {
   const allMetrics = [...METRICS, ...DERIVED_METRICS];
   const colCount = companies.length + 1;
 
+  // Flag companies with 4+ null raw metrics — typically financials, REITs, insurers
+  const NULL_THRESHOLD = 4;
+  const flagged = companyData.map((cd) => {
+    const nullCount = METRICS.filter((m) => cd.raw[m.id] === null).length;
+    return !cd.loading && nullCount >= NULL_THRESHOLD;
+  });
+  const anyFlagged = flagged.some(Boolean);
+
   let html = `<div class="table-wrapper"><table>
     <thead>
       <tr>
         <th class="metric-col">Metric</th>
-        ${companies.map((c) =>
+        ${companyData.map((cd, i) =>
           `<th>
-            <div class="th-company">${c.name}</div>
-            <div class="th-ticker">${c.ticker}${c.fiscalYear ? ` &middot; FY${c.fiscalYear}` : ''}</div>
+            <div class="th-company">${cd.name}${flagged[i] ? ' <span class="flag-marker" title="Specialized reporting format">†</span>' : ''}</div>
+            <div class="th-ticker">${cd.ticker}${cd.fiscalYear ? ` &middot; FY${cd.fiscalYear}` : ''}</div>
           </th>`
         ).join('')}
       </tr>
@@ -149,7 +157,17 @@ export function renderTable(companies) {
     });
   });
 
-  html += `</tbody></table></div>`;
+  html += `</tbody></table>`;
+
+  if (anyFlagged) {
+    html += `<p class="reporting-note">
+      <span class="flag-marker">†</span>
+      This company uses a specialized reporting format (e.g. financial services, insurance, or real estate).
+      Some standard metrics may not apply and will appear as N/A.
+    </p>`;
+  }
+
+  html += `</div>`;
   container.innerHTML = html;
 }
 
